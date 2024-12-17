@@ -1,1 +1,1 @@
-# spsb-game
+# sps-game
